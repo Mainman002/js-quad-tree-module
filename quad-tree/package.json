@@ -1,0 +1,22 @@
+{
+  "name": "quad-tree-module",
+  "version": "1.0.0",
+  "description": "A module for using quad trees to detect child objects in subdivided areas",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/Mainman002/quad-tree-module/",
+  "keywords": [
+    "quad",
+    "tree",
+    "module",
+    "js"
+  ],
+  "author": "Johnathan Mueller, The Coding Train",
+  "license": "Unknown",
+  "devDependencies": {
+    "electron": "^13.1.7"
+  },
+  "dependencies": {}
+}
